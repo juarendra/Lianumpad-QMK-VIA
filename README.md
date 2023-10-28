@@ -27,7 +27,4 @@
   
 
 
-https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/17dc67bd-2fdd-4909-9ca9-a61d3f643179
-
-
 </p>
