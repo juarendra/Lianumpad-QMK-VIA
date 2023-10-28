@@ -27,8 +27,7 @@
   
 
 
-Uploading lianumpad_via.mp4…
-
+https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
 
 
 </p>
