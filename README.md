@@ -21,5 +21,5 @@
 
 ## Preview VIA
 <p align="center">
-  <img src="DOC/VIA/via.jpeg" width="25%" height="25%">
+  <img src="DOC/VIA/via.jpeg" width="50%" height="50%">
 </p>
