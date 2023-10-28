@@ -26,7 +26,5 @@
   <img src="DOC/VIA/via.jpeg" width="50%" height="50%">
   
 
-https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/d5f064e4-9886-4ad0-8009-e4a2cf8038bf
-
 
 </p>
