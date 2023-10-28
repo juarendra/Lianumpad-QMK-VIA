@@ -3,11 +3,13 @@
 ## Spesification
 - STM32F401 as Microcontroller
 - QMK Firmware
-- Support VIA
+- Support VIA, all key and knob can proggrammed
 - RGB Underglow
 - OLED 
 - Numpad Layout
-- Hotswap
+- Hotswap Switch
+- 2x Encoder Knob
+- 3D Case 
 
 
 ## Preview Hardware
