@@ -10,7 +10,7 @@
 - Hotswap Switch
 - 2x Encoder Knob
 - 3D Case 
-
+- 3 x 2u Keycaps can with stabilazer 
 
 ## Preview Hardware
 <p align="center">
@@ -43,6 +43,7 @@ Here's some examples:
 - MO(1) - Momentarily turn on layer 1
 - LCA(KC_DEL) - Sends Ctrl-Alt-Del
 - MT(MOD_RSFT, KC_ENT) - Sends Shift if held, Enter if tapped
+- MACRO(0) - Send macro 0
 
 ## Link Keycode QMK
 - mouse : https://github.com/qmk/qmk_firmware/blob/master/docs/feature_mouse_keys.md
